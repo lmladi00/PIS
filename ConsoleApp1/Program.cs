@@ -11,6 +11,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World");
             //Ivan je prepisao od mene
+            //Ivan je duhovit
         }
     }
 }
