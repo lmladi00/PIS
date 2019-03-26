@@ -7,5 +7,6 @@ namespace ConsoleApp1
 {
     class NewClass
     {
+        public void test() { }
     }
 }
